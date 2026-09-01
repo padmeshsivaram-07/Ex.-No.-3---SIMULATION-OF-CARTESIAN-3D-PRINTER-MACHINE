@@ -59,7 +59,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/bb0f293a-cbda-4198-bb6f-5564708cbe32" />
+<img width="1887" height="906" alt="image" src="https://github.com/user-attachments/assets/de39fc79-a8ab-4e6b-bd82-3910b187738e" />
+
 
 
 ### Name: Padmesh Sivaram R
